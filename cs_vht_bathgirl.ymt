@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<0x04BD672F>
+  <UNK_MEMBER_0x124563FF>
+    <Item>
+      <name>0x027DA60F</name>
+      <UNK_MEMBER_0x6BA0D406>0xAC2315DA</UNK_MEMBER_0x6BA0D406>
+      <UNK_MEMBER_0x7F2E3DC6>0x15D8C95A</UNK_MEMBER_0x7F2E3DC6>
+      <UNK_MEMBER_0xC664B008/>
+      <UNK_MEMBER_0x3FD0C14E/>
+      <UNK_MEMBER_0x509F0480/>
+      <scale value="1.00000000"/>
+      <UNK_MEMBER_0xC547BF6E value="0.00000000"/>
+      <UNK_MEMBER_0x0FA9BAB7 value="0.00000000"/>
+      <UNK_MEMBER_0x558AFB3E value="0.00000000"/>
+      <UNK_MEMBER_0x0F070A31 value="0.00000000"/>
+      <UNK_MEMBER_0x5D6502F4 value="0.00000000"/>
+      <UNK_MEMBER_0x3EEF3D09 value="1.00000000"/>
+      <UNK_MEMBER_0x6DE241BD value="0.00000000"/>
+      <UNK_MEMBER_0xBDB05E7E>0x3224DB51</UNK_MEMBER_0xBDB05E7E>
+      <UNK_MEMBER_0xAEC6FE73 value="true"/>
+      <UNK_MEMBER_0xD3DA0D6B value="false"/>
+      <UNK_MEMBER_0x3A67E76B value="false"/>
+      <UNK_MEMBER_0xA9973338/>
+      <UNK_MEMBER_0x685A958D>
+        <Item> 
+          <UNK_MEMBER_0xC720CAAA>0x909FD225</UNK_MEMBER_0xC720CAAA>
+          <UNK_MEMBER_0xC8D27281>0xB787DE40</UNK_MEMBER_0xC8D27281>
+          <normal>0xA1CA74BA</normal>
+          <UNK_MEMBER_0x7A84E7BF>0x19AAA57E</UNK_MEMBER_0x7A84E7BF>
+          <UNK_MEMBER_0x66771820/>
+          <UNK_MEMBER_0x48EA2F7E value="0"/>
+          <UNK_MEMBER_0x368C8AC3 value="0"/>
+          <UNK_MEMBER_0xB69E0AE8 value="0"/>
+          <probability value="255"/>
+        </Item>
+        <Item>
+          <UNK_MEMBER_0xC720CAAA>0x3A915017</UNK_MEMBER_0xC720CAAA>
+          <UNK_MEMBER_0xC8D27281>0xDBBEA724</UNK_MEMBER_0xC8D27281>
+          <normal>0xD41C08FA</normal>
+          <UNK_MEMBER_0x7A84E7BF>0x498DEC7B</UNK_MEMBER_0x7A84E7BF>
+          <UNK_MEMBER_0x66771820>0xAA65D8A3</UNK_MEMBER_0x66771820>
+          <UNK_MEMBER_0x48EA2F7E value="0"/>
+          <UNK_MEMBER_0x368C8AC3 value="0"/>
+          <UNK_MEMBER_0xB69E0AE8 value="0"/>
+          <probability value="255"/>
+        </Item>
+        <Item>
+          <UNK_MEMBER_0xC720CAAA>0x015AE215</UNK_MEMBER_0xC720CAAA>
+          <UNK_MEMBER_0xC8D27281>0xCC2612B0</UNK_MEMBER_0xC8D27281>
+          <normal>0x52BAE66A</normal>
+          <UNK_MEMBER_0x7A84E7BF>0x30300F45</UNK_MEMBER_0x7A84E7BF>
+          <UNK_MEMBER_0x66771820>0xAA65D8A3</UNK_MEMBER_0x66771820>
+          <UNK_MEMBER_0x48EA2F7E value="0"/>
+          <UNK_MEMBER_0x368C8AC3 value="0"/>
+          <UNK_MEMBER_0xB69E0AE8 value="0"/>
+          <probability value="255"/>
+        </Item>
+        <Item>
+          <UNK_MEMBER_0xC720CAAA>0xCA3F5990</UNK_MEMBER_0xC720CAAA>
+          <UNK_MEMBER_0xC8D27281>0x98513937</UNK_MEMBER_0xC8D27281>
+          <normal>0x88F2F623</normal>
+          <UNK_MEMBER_0x7A84E7BF>0x71107E1B</UNK_MEMBER_0x7A84E7BF>
+          <UNK_MEMBER_0x66771820>0xAA65D8A3</UNK_MEMBER_0x66771820>
+          <UNK_MEMBER_0x48EA2F7E value="21"/>
+          <UNK_MEMBER_0x368C8AC3 value="21"/>
+          <UNK_MEMBER_0xB69E0AE8 value="21"/>
+          <probability value="255"/>
+        </Item>
+        <Item>
+          <UNK_MEMBER_0xC720CAAA>0x49AEB071</UNK_MEMBER_0xC720CAAA>
+          <UNK_MEMBER_0xC8D27281>0xDE35BC92</UNK_MEMBER_0xC8D27281>
+          <normal>0x808A972F</normal>
+          <UNK_MEMBER_0x7A84E7BF>0x1278775B</UNK_MEMBER_0x7A84E7BF>
+          <UNK_MEMBER_0x66771820>0xAA65D8A3</UNK_MEMBER_0x66771820>
+          <UNK_MEMBER_0x48EA2F7E value="0"/>
+          <UNK_MEMBER_0x368C8AC3 value="0"/>
+          <UNK_MEMBER_0xB69E0AE8 value="0"/>
+          <probability value="255"/>
+        </Item>
+        <Item>
+          <UNK_MEMBER_0xC720CAAA>0xBB03CE94</UNK_MEMBER_0xC720CAAA>
+          <UNK_MEMBER_0xC8D27281>0x628996A8</UNK_MEMBER_0xC8D27281>
+          <normal>0xD26467D0</normal>
+          <UNK_MEMBER_0x7A84E7BF>0x51536762</UNK_MEMBER_0x7A84E7BF>
+          <UNK_MEMBER_0x66771820>0xDFB1F64C</UNK_MEMBER_0x66771820>
+          <UNK_MEMBER_0x48EA2F7E value="9"/>
+          <UNK_MEMBER_0x368C8AC3 value="9"/>
+          <UNK_MEMBER_0xB69E0AE8 value="9"/>
+          <probability value="255"/>
+        </Item>
+        <Item>
+          <UNK_MEMBER_0xC720CAAA>0xD702B451</UNK_MEMBER_0xC720CAAA>
+          <UNK_MEMBER_0xC8D27281>0xEBFBD897</UNK_MEMBER_0xC8D27281>
+          <normal>0x9B85A7A4</normal>
+          <UNK_MEMBER_0x7A84E7BF>0xADECB630</UNK_MEMBER_0x7A84E7BF>
+          <UNK_MEMBER_0x66771820>0xAA65D8A3</UNK_MEMBER_0x66771820>
+          <UNK_MEMBER_0x48EA2F7E value="0"/>
+          <UNK_MEMBER_0x368C8AC3 value="0"/>
+          <UNK_MEMBER_0xB69E0AE8 value="0"/>
+          <probability value="255"/>
+        </Item>
+        <Item>
+          <UNK_MEMBER_0xC720CAAA>0x0E337C43</UNK_MEMBER_0xC720CAAA>
+          <UNK_MEMBER_0xC8D27281>0x7052DC49</UNK_MEMBER_0xC8D27281>
+          <normal>0x9E534E09</normal>
+          <UNK_MEMBER_0x7A84E7BF>0x2962F031</UNK_MEMBER_0x7A84E7BF>
+          <UNK_MEMBER_0x66771820>0xAA65D8A3</UNK_MEMBER_0x66771820>
+          <UNK_MEMBER_0x48EA2F7E value="39"/>
+          <UNK_MEMBER_0x368C8AC3 value="144"/>
+          <UNK_MEMBER_0xB69E0AE8 value="145"/>
+          <probability value="255"/>
+        </Item>
+        <Item>
+          <UNK_MEMBER_0xC720CAAA>0xB8072EFE</UNK_MEMBER_0xC720CAAA>
+          <UNK_MEMBER_0xC8D27281>0xC1B2FEED</UNK_MEMBER_0xC8D27281>
+          <normal>0xD41C08FA</normal>
+          <UNK_MEMBER_0x7A84E7BF>0x498DEC7B</UNK_MEMBER_0x7A84E7BF>
+          <UNK_MEMBER_0x66771820>0xAA65D8A3</UNK_MEMBER_0x66771820>
+          <UNK_MEMBER_0x48EA2F7E value="55"/>
+          <UNK_MEMBER_0x368C8AC3 value="74"/>
+          <UNK_MEMBER_0xB69E0AE8 value="21"/>
+          <probability value="255"/>
+        </Item>
+        <Item>
+          <UNK_MEMBER_0xC720CAAA>0x07AB61E1</UNK_MEMBER_0xC720CAAA>
+          <UNK_MEMBER_0xC8D27281>0x7480EBA5</UNK_MEMBER_0xC8D27281>
+          <normal>0xEF1656DA</normal>
+          <UNK_MEMBER_0x7A84E7BF>0xB3581CC7</UNK_MEMBER_0x7A84E7BF>
+          <UNK_MEMBER_0x66771820>0xAA65D8A3</UNK_MEMBER_0x66771820>
+          <UNK_MEMBER_0x48EA2F7E value="0"/>
+          <UNK_MEMBER_0x368C8AC3 value="0"/>
+          <UNK_MEMBER_0xB69E0AE8 value="0"/>
+          <probability value="255"/>
+        </Item>
+        <Item>
+          <UNK_MEMBER_0xC720CAAA>0x08F72360</UNK_MEMBER_0xC720CAAA>
+          <UNK_MEMBER_0xC8D27281>0xBD10D52A</UNK_MEMBER_0xC8D27281>
+          <normal>0xFE5E7767</normal>
+          <UNK_MEMBER_0x7A84E7BF>0x8010AC99</UNK_MEMBER_0x7A84E7BF>
+          <UNK_MEMBER_0x66771820>0xA4CFABD0</UNK_MEMBER_0x66771820>
+          <UNK_MEMBER_0x48EA2F7E value="3"/>
+          <UNK_MEMBER_0x368C8AC3 value="75"/>
+          <UNK_MEMBER_0xB69E0AE8 value="34"/>
+          <probability value="255"/>
+        </Item>
+        <Item>
+          <UNK_MEMBER_0xC720CAAA>0xE8DFAFC4</UNK_MEMBER_0xC720CAAA>
+          <UNK_MEMBER_0xC8D27281>0x3C0AAF54</UNK_MEMBER_0xC8D27281>
+          <normal>0x08A33272</normal>
+          <UNK_MEMBER_0x7A84E7BF>0x46626242</UNK_MEMBER_0x7A84E7BF>
+          <UNK_MEMBER_0x66771820>0xAA65D8A3</UNK_MEMBER_0x66771820>
+          <UNK_MEMBER_0x48EA2F7E value="0"/>
+          <UNK_MEMBER_0x368C8AC3 value="0"/>
+          <UNK_MEMBER_0xB69E0AE8 value="0"/>
+          <probability value="255"/>
+        </Item>
+      </UNK_MEMBER_0x685A958D>
+      <UNK_MEMBER_0x86CF602A>
+        <Item>
+          <id value="16009"/>
+          <UNK_MEMBER_0x1E720953 value="-0.10000000"/>
+        </Item>
+        <Item>
+          <id value="38169"/>
+          <UNK_MEMBER_0x1E720953 value="-0.87000000"/>
+        </Item>
+        <Item>
+          <id value="9586"/>
+          <UNK_MEMBER_0x1E720953 value="-0.40000000"/>
+        </Item>
+      </UNK_MEMBER_0x86CF602A>
+      <UNK_MEMBER_0x9C2154F8/>
+      <UNK_MEMBER_0x69B495BA/>
+      <UNK_MEMBER_0xF964BFB7>
+        <Item>0x4BFA4A07</Item>
+            </UNK_MEMBER_0xF964BFB7>
+      <UNK_MEMBER_0x645032CC/>
+    </Item>
+  </UNK_MEMBER_0x124563FF>
+  <UNK_MEMBER_0xC664B008/>
+  <UNK_MEMBER_0x458DD48E/>
+  <UNK_MEMBER_0x509F0480/>
+  <type>0x1F61C46B</type>
+  <version value="104"/>
+  <UNK_MEMBER_0xC7DEF13D value="false"/>
+</0x04BD672F>
